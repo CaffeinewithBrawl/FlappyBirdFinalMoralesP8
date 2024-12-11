@@ -651,7 +651,7 @@ MonoBehaviour:
   columnPrefab: {fileID: 1025169833903987189, guid: 515247ae78a7742409e86d28528e7c47, type: 3}
   spawnRate: 4
   columnMin: -2
-  columnMax: 2
+  columnMax: 1.9
 --- !u!1 &1293782040
 GameObject:
   m_ObjectHideFlags: 0
