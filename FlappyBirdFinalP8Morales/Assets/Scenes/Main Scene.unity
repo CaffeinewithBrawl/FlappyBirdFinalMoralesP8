@@ -617,7 +617,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverText: {fileID: 1722594369}
-  scoreText: {fileID: 0}
+  scoreText: {fileID: 2086347675}
   gameOver: 0
   scrollSpeed: -1.5
 --- !u!4 &1170023860
@@ -1566,8 +1566,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 31.97
+  m_fontSizeBase: 31.97
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
